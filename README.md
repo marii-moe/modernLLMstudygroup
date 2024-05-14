@@ -48,3 +48,11 @@ Each paper has its own ReadMe with a direct link, summary, further reading (for 
 
 24. [*Textbooks Are All You Need* & *Textbooks Are All You Need II: phi-1.5 technical report*](paper_24/ReadMe.md)
 25. [Cosmopedia](paper_25/ReadMe.md)
+
+## RLHF
+
+26. [*Training language models to follow instructions with human feedback*](paper_26/ReadMe.md)
+27. [*Constitutional AI: Harmlessness from AI Feedback*](paper_27/ReadMe.md)
+28. [*Direct Preference Optimization: Your Language Model is Secretly a Reward Model*](paper_28/ReadMe.md)
+29. [*KTO: Model Alignment as Prospect Theoretic Optimization*](paper_29/ReadMe.md)
+30. [*RewardBench: Evaluating Reward Models for Language Modeling*](paper_30/ReadMe.md)
