@@ -55,4 +55,5 @@ Each paper has its own ReadMe with a direct link, summary, further reading (for 
 27. [*Constitutional AI: Harmlessness from AI Feedback*](paper_27/ReadMe.md)
 28. [*Direct Preference Optimization: Your Language Model is Secretly a Reward Model*](paper_28/ReadMe.md)
 29. [*KTO: Model Alignment as Prospect Theoretic Optimization*](paper_29/ReadMe.md)
-30. [*RewardBench: Evaluating Reward Models for Language Modeling*](paper_30/ReadMe.md)
+30. [*ORPO: Monolithic Preference Optimization without Reference Model*](paper_30/ReadMe.md)
+31. [*RewardBench: Evaluating Reward Models for Language Modeling*](paper_31/ReadMe.md)
