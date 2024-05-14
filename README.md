@@ -10,7 +10,7 @@ The study group is coordinated through the [fastai discord](https://forums.fast.
 
 ## LLM Paper Reading List
 
-Most papers have related papers for further reading.
+Each paper has its own ReadMe with a direct link, summary, further reading (for most papers), and some supporting materials.
 
 ### Intro to Modern LLMs
 
@@ -44,3 +44,7 @@ Most papers have related papers for further reading.
 22. [*Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI*](paper_22/ReadMe.md)
 23. [*How to Train Data-Efficient LLMs*](paper_23/ReadMe.md)
 
+## Synthetic Data
+
+24. [*Textbooks Are All You Need* & *Textbooks Are All You Need II: phi-1.5 technical report*](paper_24/ReadMe.md)
+25. [Cosmopedia](paper_25/ReadMe.md)
