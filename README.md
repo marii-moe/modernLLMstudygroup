@@ -44,12 +44,12 @@ Each paper has its own ReadMe with a direct link, summary, further reading (for 
 22. [*Training Data for the Price of a Sandwich: Common Crawl’s Impact on Generative AI*](paper_22/ReadMe.md)
 23. [*How to Train Data-Efficient LLMs*](paper_23/ReadMe.md)
 
-## Synthetic Data
+### Synthetic Data
 
 24. [*Textbooks Are All You Need* & *Textbooks Are All You Need II: phi-1.5 technical report*](paper_24/ReadMe.md)
 25. [Cosmopedia](paper_25/ReadMe.md)
 
-## RLHF
+### RLHF
 
 26. [*Training language models to follow instructions with human feedback*](paper_26/ReadMe.md)
 27. [*Constitutional AI: Harmlessness from AI Feedback*](paper_27/ReadMe.md)
