@@ -57,3 +57,8 @@ Each paper has its own ReadMe with a direct link, summary, further reading (for 
 29. [*Deep Reinforcement Learning from Human Preferences*](RLHF/Deep_Reinforcement_Learning_from_Human_Preferences.md)
 30. [*Scaling Laws for Reinforcement Learning*](RLHF/Scaling_Laws_for_Reinforcement_Learning.md)
 31. [*Aligning Language Models to Follow Instructions*](RLHF/Aligning_Language_Models_to_Follow_Instructions.md)
+
+### Finetuning
+
+32. [*Orca: Progressive Learning from Complex Explanation Traces of GPT-4*](Finetuning/Orca_Progressive_Learning_from_Complex_Explanation_Traces_of_GPT_4.md)
+33. [*QLoRA: Efficient Finetuning of Quantized LLMs*](Finetuning/QLoRA_Efficient_Finetuning_of_Quantized_LLMs.md)
