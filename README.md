@@ -10,7 +10,7 @@ The study group is coordinated through the [fastai discord](https://forums.fast.
 
 ## LLM Paper Reading List
 
-Each paper has its own ReadMe with a direct link, summary, further reading (for most papers), and some supporting materials.
+Each paper has its own ReadMe with a direct link, summary, further reading (for most papers), and some supporting materials in the section references folder.
 
 ### Intro to Modern LLMs
 
